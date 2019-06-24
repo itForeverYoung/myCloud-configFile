@@ -1,0 +1,3 @@
+profile: 应用到所有dev profile服务的配置
+super:
+  profile: 应用到所有dev profile服务的配置super
