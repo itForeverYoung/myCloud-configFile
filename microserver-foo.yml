@@ -1,4 +1,4 @@
 profile: 列夫托尔斯泰-update1
 spring:
   profiles:
-    active: dev
+    active: default
